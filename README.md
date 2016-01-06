@@ -1,3 +1,6 @@
+This is my fork of the Clojure Koans which contains my solutions in the
+'mywork' branch.  The rest of this README.md is the original...
+
 # Clojure Koans
 
 The Clojure Koans are a fun and easy way to get started with Clojure - no
